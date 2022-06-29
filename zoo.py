@@ -1,8 +1,7 @@
-from socket import TIPC_SUB_SERVICE
-elephant
-monkey
-zebra
-deer
-Tiger 
-horse 
-tortoise 
+Animals list 
+Monkey (gray)
+Zebra (black and white)
+Deer (brown)
+Tiger (red strips)
+Horse (white)
+Tortoise (gray)
